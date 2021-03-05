@@ -1,0 +1,162 @@
+[
+  {
+    "name": "Margherita",
+    "ingredients": [
+      {
+        "name": "dough",
+        "price": 1.25,
+        "quantity": 1
+      },
+      {
+        "name": "tomato sauce",
+        "price": 2.00,
+        "quantity": 1
+      },
+      {
+        "name": "basil",
+        "price": 0.50,
+        "quantity": 2
+      },
+      {
+        "name": "mozzarella",
+        "price": 5.00,
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "name": "Quattro Formaggi",
+    "ingredients": [
+      {
+        "name": "dough",
+        "price": 2.00,
+        "quantity": 1
+      },
+      {
+        "name": "tomato sauce",
+        "price": 2.00,
+        "quantity": 1
+      },
+      {
+        "name": "mozzarella",
+        "price": 5.00,
+        "quantity": 1
+      },
+      {
+        "name": "gorgonzola",
+        "price": 7.50,
+        "quantity": 1
+      },
+      {
+        "name": "fontina",
+        "price": 6.00,
+        "quantity": 1
+      },
+      {
+        "name": "parmigiano-reggiano",
+        "price": 6.75,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Quattro Stagioni",
+    "ingredients": [
+      {
+        "name": "dough",
+        "price": 2.00,
+        "quantity": 1
+      },
+      {
+        "name": "tomato sauce",
+        "price": 2.00,
+        "quantity": 1
+      },
+      {
+        "name": "artichokes",
+        "price": 3.00,
+        "quantity": 2
+      },
+      {
+        "name": "mushrooms",
+        "price": 3.75,
+        "quantity": 1
+      },
+      {
+        "name": "olives",
+        "price": 2.50,
+        "quantity": 2
+      },
+      {
+        "name": "ham",
+        "price": 10.00,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Bianca",
+    "ingredients": [
+      {
+        "name": "dough",
+        "price": 2.00,
+        "quantity": 1
+      },
+      {
+        "name": "mozzarella",
+        "price": 5.00,
+        "quantity": 2
+      },
+      {
+        "name": "ricotta",
+        "price": 5.50,
+        "quantity": 1
+      },
+      {
+        "name": "pecorino-romano",
+        "price": 4.50,
+        "quantity": 1
+      }
+    ]
+  },
+  {
+    "name": "Quatro Carni",
+    "ingredients": [
+      {
+        "name": "dough",
+        "price": 2.00,
+        "quantity": 1
+      },
+      {
+        "name": "tomato sauce",
+        "price": 2.00,
+        "quantity": 1
+      },
+      {
+        "name": "mozzarella",
+        "price": 5.00,
+        "quantity": 1
+      },
+      {
+        "name": "ham",
+        "price": 10.00,
+        "quantity": 1
+      },
+      {
+        "name": "salami",
+        "price": 8.25,
+        "quantity": 1
+      },
+      {
+        "name": "sausages",
+        "price": 5.75,
+        "quantity": 1
+      },
+      {
+        "name": "chicken breast",
+        "price": 11.00,
+        "quantity": 1
+      }
+    ]
+  }
+]
